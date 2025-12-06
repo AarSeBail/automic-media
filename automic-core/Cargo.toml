@@ -1,0 +1,9 @@
+[package]
+name = "automic-core"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+hex.workspace = true
+memmap2.workspace = true
+rand.workspace = true
