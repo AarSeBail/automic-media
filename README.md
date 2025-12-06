@@ -9,7 +9,7 @@ There are two example files in the repository. Both require a directory of frame
 The examples are full of commented out code, since the current method of designing ant behavior is just to edit the code and recompile.
 1. `texture_gif`: This spawns a large number of ants, each with a limited lifespan. The ants move on a toroidal grid, which creates a looping, tiling grid. This is nice for the creation of animated textures.
 
-![](https://github.com/AarSeBail/automic-media/with-assets/assets/t1.gif)
+![](https://github.com/AarSeBail/automic-media/with-assets/assets/t2.gif)
 
 <div align="center">
     <img src = "https://raw.githubusercontent.com/AarSeBail/automic-media/with-assets/assets/t1.gif"/>
